@@ -6,6 +6,8 @@ body {
   height: 62.5rem;
   background: url("../assets/model1.jpg") no-repeat;
   background-size: contain;
+  background-position-y: -9.75rem;
+  background-position-x: 6.375rem;
 }
 
 #parent header {
@@ -30,8 +32,13 @@ body {
 
 #parent header nav ul li a {
   display: block;
+  color: #000;
   text-decoration: none;
   font-size: 0.9375rem;
   font-weight: 600;
   padding-left: 2.5rem;
+}
+
+#parent header nav ul li a i {
+  font-weight: 600;
 }
