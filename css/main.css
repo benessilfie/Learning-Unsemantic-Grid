@@ -1,0 +1,37 @@
+body {
+  background-color: #f9f9f9;
+}
+
+#parent {
+  height: 62.5rem;
+  background: url("../assets/model1.jpg") no-repeat;
+  background-size: contain;
+}
+
+#parent header {
+  font-family: "TT Commons", sans-serif;
+  padding: 3.75rem 0;
+}
+
+#parent header .logo h1 {
+  text-transform: lowercase;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+#parent header nav {
+  float: right;
+}
+
+#parent header nav ul li {
+  float: left;
+  list-style: none;
+}
+
+#parent header nav ul li a {
+  display: block;
+  text-decoration: none;
+  font-size: 0.9375rem;
+  font-weight: 600;
+  padding-left: 2.5rem;
+}
