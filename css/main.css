@@ -1,5 +1,6 @@
 body {
   background-color: #f9f9f9;
+  font-family: "TT Commons", sans-serif;
 }
 
 #parent {
@@ -11,7 +12,6 @@ body {
 }
 
 #parent header {
-  font-family: "TT Commons", sans-serif;
   padding: 3.75rem 0;
 }
 
@@ -41,4 +41,17 @@ body {
 
 #parent header nav ul li a i {
   font-weight: 600;
+}
+
+#parent section {
+  position: relative;
+  top: 6.5em;
+}
+
+#parent section .title {
+  text-transform: capitalize;
+}
+
+#parent section .title h4 {
+  font-size: 0.65rem;
 }
