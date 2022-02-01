@@ -6,6 +6,7 @@ body {
 #parent {
   height: 62.5rem;
   background: url("../assets/model1.jpg") no-repeat;
+  position: relative;
   background-size: contain;
   background-position-y: -9.75rem;
   background-position-x: 6.375rem;
@@ -135,4 +136,15 @@ body {
   text-decoration: none;
   color: #000;
   font-size: 0.875rem;
+}
+
+#parent footer {
+  height: 11rem;
+  position: absolute;
+}
+
+#parent footer .left {
+  background-color: #eee;
+  height: inherit;
+  width: 100%;
 }
