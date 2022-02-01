@@ -141,10 +141,21 @@ body {
 #parent footer {
   height: 11rem;
   position: absolute;
+  bottom: 12rem;
+  width: 100%;
 }
 
 #parent footer .left {
   background-color: #eee;
   height: inherit;
   width: 100%;
+}
+
+#parent footer .right {
+  background-color: #273238;
+  height: inherit;
+  width: 50%;
+  position: absolute;
+  right: 0;
+  bottom: 0rem;
 }
