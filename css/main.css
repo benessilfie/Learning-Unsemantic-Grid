@@ -157,5 +157,31 @@ body {
   width: 50%;
   position: absolute;
   right: 0;
-  bottom: 0rem;
+  bottom: 0;
+}
+
+#parent footer .left .content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 11rem;
+}
+
+#parent footer .left h1 {
+  font-size: 1.175rem;
+  font-weight: 600;
+}
+
+#parent footer .left a {
+  font-size: 1.175rem;
+  font-weight: 400;
+  text-decoration: none;
+  color: #6b6b6b;
+}
+
+#parent footer .left a:hover {
+  color: #000;
+}
+#parent footer .left h4 {
+  font-size: 0.65rem;
 }
