@@ -118,3 +118,21 @@ body {
   background-color: #4caf50;
   color: #f9f9f9;
 }
+
+#parent section aside {
+  transform-origin: right;
+  transform: rotate(90deg);
+  position: relative;
+  top: 33.5rem;
+}
+
+#parent section aside ul li {
+  display: inline-block;
+  margin-right: 4.375rem;
+}
+
+#parent section aside ul li a {
+  text-decoration: none;
+  color: #000;
+  font-size: 0.875rem;
+}
