@@ -192,7 +192,7 @@ body {
   z-index: 5;
 }
 
-#parent footer .foo.pic {
+#parent footer .footer--img {
   position: relative;
   height: 13.125rem;
   width: 92%;
