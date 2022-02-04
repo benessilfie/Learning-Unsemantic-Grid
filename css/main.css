@@ -174,7 +174,7 @@ body {
 
 #parent footer .left a {
   font-size: 1.175rem;
-  font-weight: 400;
+  font-weight: 600;
   text-decoration: none;
   color: #6b6b6b;
 }
@@ -183,5 +183,6 @@ body {
   color: #000;
 }
 #parent footer .left h4 {
-  font-size: 0.65rem;
+  font-weight: 500;
+  font-size: 0.75rem;
 }
