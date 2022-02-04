@@ -4,7 +4,7 @@ This is a simple nav and hero section built with the unsemantic grid framework
 
 ## Desktop View
 
-<img src="https://raw.githubusercontent.com/essilfiequansah/EarthFund-Clone/master/screenshots/desktop.png" width="80%"  height="40%"/>
+<img src="https://raw.githubusercontent.com/essilfiequansah/Learning-Unsemantic-Grid/master/screenshots/art1.png" width="80%"  height="40%"/>
 
 ## Author
 
