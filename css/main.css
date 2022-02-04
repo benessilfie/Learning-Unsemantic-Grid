@@ -187,12 +187,20 @@ body {
   font-size: 0.75rem;
 }
 
-#parent .foo {
+#parent footer .foo {
   position: relative;
   z-index: 5;
 }
 
-#parent .foo.pic {
+#parent footer .foo.pic {
+  position: relative;
+  height: 13.125rem;
+  width: 92%;
+  bottom: 2.1rem;
+  overflow: hidden;
+}
+
+#parent footer .foo.btn {
   position: relative;
   height: 13.125rem;
   width: 92%;
