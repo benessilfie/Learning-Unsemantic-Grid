@@ -200,7 +200,7 @@ body {
   overflow: hidden;
 }
 
-#parent footer .foo.btn {
+#parent footer .footer--btn {
   position: relative;
   height: 13.125rem;
   width: 92%;
