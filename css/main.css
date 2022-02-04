@@ -182,7 +182,7 @@ body {
 #parent footer .left a:hover {
   color: #000;
 }
-#parent footer .left h4 {
+#parent footer .left .content h4 {
   font-weight: 500;
   font-size: 0.75rem;
 }
