@@ -201,9 +201,16 @@ body {
 }
 
 #parent footer .footer--btn {
-  position: relative;
-  height: 13.125rem;
-  width: 92%;
+  display: flex;
   bottom: 2.1rem;
-  overflow: hidden;
+  right: 1.5rem;
+}
+
+#parent footer .footer--btn button {
+  border: none;
+  color: #fff;
+  padding: 0.8375rem;
+  background-color: #273238;
+  font-weight: 600;
+  cursor: pointer;
 }
